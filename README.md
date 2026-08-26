@@ -10,7 +10,7 @@ This portfolio showcases my technical skills, education, certifications, project
 > Add your GitHub Pages link here
 
 Example:
-https://crazyachat.github.io/Portfolio-Web-Dev/
+https://codinglaks.github.io/Portfolio-Web-Dev/
 
 ---
 
