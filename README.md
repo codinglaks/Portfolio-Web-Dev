@@ -187,6 +187,8 @@ This project is licensed under the MIT License.
 # 🙏 Acknowledgements
 - Google Fonts
 - Font Awesome
+
+I hope you all were fine 
 - EmailJS
 
 ---
